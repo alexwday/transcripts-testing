@@ -213,10 +213,10 @@
     {
       "id": 22,
       "question": "Which Canadian banks announced dividend increases in fiscal Q2 2025 and by how much?",
-      "answer": "In Q2 2025, several banks announced dividend increases: BMO increased by $0.04 (5% increase), RBC by $0.06 (4% increase), and Scotiabank by $0.04 to $1.10 per share.",
-      "quote": "today we announced an increase in our dividend of four cents, up 5% from last year (BMO) | we announced a $0.06 or 4% increase in our quarterly dividend (RBC) | increasing our quarterly dividend by $0.04 to $1.10 per share (Scotiabank)",
-      "speaker": "Darryl White (BMO) / Dave McKay (RBC) / Scott Thomson (Scotiabank)",
-      "entities": ["BMO", "RBC", "Scotiabank"],
+      "answer": "In Q2 2025, four banks announced dividend increases: BMO increased by $0.04 (5% increase), RBC by $0.06 (4% increase), Scotiabank by $0.04 to $1.10 per share, and National Bank by $0.04.",
+      "quote": "today we announced an increase in our dividend of four cents, up 5% from last year (BMO) | we announced a $0.06 or 4% increase in our quarterly dividend (RBC) | increasing our quarterly dividend by $0.04 to $1.10 per share (Scotiabank) | we also raised our quarterly dividend by $0.04 effective next quarter (NBC)",
+      "speaker": "Darryl White (BMO) / Dave McKay (RBC) / Scott Thomson (Scotiabank) / Laurent Ferreira (NBC)",
+      "entities": ["BMO", "RBC", "Scotiabank", "NBC"],
       "fiscal_period": "Q2 2025",
       "type": "multi_bank"
     },
