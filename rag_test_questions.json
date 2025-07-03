@@ -1,0 +1,260 @@
+{
+  "test_questions": [
+    {
+      "id": 1,
+      "question": "What was BMO's adjusted earnings per share for Q2 2025?",
+      "answer": "BMO reported adjusted earnings per share of $2.62 for Q2 2025.",
+      "quote": "In the quarter, adjusted net income and earnings per share were $2.62, respectively, with PPPT growth of 12%",
+      "speaker": "Darryl White (CEO)",
+      "entities": ["BMO"],
+      "fiscal_period": "Q2 2025",
+      "type": "single_bank"
+    },
+    {
+      "id": 2,
+      "question": "Tell me about CIBC's performance in the second quarter of fiscal year 2025",
+      "answer": "CIBC reported strong Q2 2025 performance with adjusted EPS of $2.05, net income of $2 billion, ROE of 13.9%, and 19% pre-provision pretax earnings growth. The bank achieved positive operating leverage for the 5th consecutive quarter at 4.3%.",
+      "entities": ["CIBC"],
+      "fiscal_period": "Q2 2025",
+      "type": "single_bank"
+    },
+    {
+      "id": 3,
+      "question": "What synergies did National Bank realize from the CWB acquisition in 2025 Q2?",
+      "answer": "National Bank realized $27 million in cost and funding synergies from the CWB acquisition in Q2 2025, and is targeting $270 million in total synergies by the end of fiscal 2027.",
+      "entities": ["NBC"],
+      "fiscal_period": "Q2 2025",
+      "type": "single_bank"
+    },
+    {
+      "id": 4,
+      "question": "RBC FY2025 Q2 capital ratio?",
+      "answer": "RBC's Common Equity Tier 1 (CET1) ratio was 13.2% in Q2 FY2025.",
+      "entities": ["RBC"],
+      "fiscal_period": "Q2 2025",
+      "type": "single_bank"
+    },
+    {
+      "id": 5,
+      "question": "How much did Scotiabank increase its dividend in the April 2025 quarter?",
+      "answer": "Scotiabank increased its quarterly dividend by $0.04 to $1.10 per share in Q2 2025 (quarter ended April 30, 2025).",
+      "entities": ["Scotiabank"],
+      "fiscal_period": "Q2 2025",
+      "type": "single_bank"
+    },
+    {
+      "id": 6,
+      "question": "TD Bank Q2/25 restructuring charges and expected savings?",
+      "answer": "TD Bank expects restructuring charges of $600-700 million to achieve annual run-rate savings of $550-650 million from its restructuring program announced in Q2 2025.",
+      "entities": ["TD"],
+      "fiscal_period": "Q2 2025",
+      "type": "single_bank"
+    },
+    {
+      "id": 7,
+      "question": "What was Bank of Montreal's revenue growth year-to-date in fiscal 2025?",
+      "answer": "Bank of Montreal (BMO) reported 13% year-to-date revenue growth in fiscal 2025.",
+      "entities": ["BMO"],
+      "fiscal_period": "Q2 2025",
+      "type": "single_bank"
+    },
+    {
+      "id": 8,
+      "question": "How many new retail primary clients did Canadian Imperial Bank of Commerce add in 2Q25?",
+      "answer": "CIBC added 392,000 new retail primary clients in Q2 2025.",
+      "entities": ["CIBC"],
+      "fiscal_period": "Q2 2025",
+      "type": "single_bank"
+    },
+    {
+      "id": 9,
+      "question": "National Bank's Financial Markets earnings second quarter twenty twenty-five",
+      "answer": "National Bank's Financial Markets segment reported net income of over $500 million in Q2 2025, benefiting from market volatility.",
+      "entities": ["NBC"],
+      "fiscal_period": "Q2 2025",
+      "type": "single_bank"
+    },
+    {
+      "id": 10,
+      "question": "Royal Bank performing reserves build Q2 FY25",
+      "answer": "Royal Bank (RBC) built $568 million in performing reserves in Q2 FY2025 to prepare for economic uncertainty.",
+      "entities": ["RBC"],
+      "fiscal_period": "Q2 2025",
+      "type": "single_bank"
+    },
+    {
+      "id": 11,
+      "question": "BNS Scene+ loyalty program metrics in 2025 second quarter?",
+      "answer": "Bank of Nova Scotia (Scotiabank) reported that Scene+ has 15 million members, with 26% holding a payment product, as of Q2 2025.",
+      "entities": ["Scotiabank"],
+      "fiscal_period": "Q2 2025",
+      "type": "single_bank"
+    },
+    {
+      "id": 12,
+      "question": "Toronto-Dominion AML spending fiscal 2025",
+      "answer": "TD Bank is spending approximately $500 million annually on AML remediation efforts and is on track with implementation as of Q2 2025.",
+      "entities": ["TD"],
+      "fiscal_period": "Q2 2025",
+      "type": "single_bank"
+    },
+    {
+      "id": 13,
+      "question": "BMO Q2-25 US net interest margin expansion",
+      "answer": "BMO's US Personal & Commercial Banking (USP&C) segment achieved net interest margin expansion of 5 basis points in Q2 2025.",
+      "entities": ["BMO"],
+      "fiscal_period": "Q2 2025",
+      "type": "single_bank"
+    },
+    {
+      "id": 14,
+      "question": "CIBC U.S. Capital Markets revenue growth year-over-year Q2/2025",
+      "answer": "CIBC's U.S. region Capital Markets revenue increased 37% year-over-year in Q2 2025.",
+      "entities": ["CIBC"],
+      "fiscal_period": "Q2 2025",
+      "type": "single_bank"
+    },
+    {
+      "id": 15,
+      "question": "What is NBC's target ROE for fiscal year 2025?",
+      "answer": "National Bank reported an ROE of 15.6% in Q2 2025, the highest among the Canadian banks for that quarter.",
+      "entities": ["NBC"],
+      "fiscal_period": "Q2 2025",
+      "type": "single_bank"
+    },
+    {
+      "id": 16,
+      "question": "RBC wealth management AUA growth Canada vs US Q2 2025",
+      "answer": "RBC's Wealth Management reported Assets Under Administration (AUA) growth of 11% in Canada and 9% in the US in Q2 2025.",
+      "entities": ["RBC"],
+      "fiscal_period": "Q2 2025",
+      "type": "single_bank"
+    },
+    {
+      "id": 17,
+      "question": "Scotia's international banking ROE and productivity ratio 2Q/25",
+      "answer": "Scotiabank's International Banking division showed improved performance with a productivity ratio of 51% in Q2 2025, contributing to overall ROE improvement.",
+      "entities": ["Scotiabank"],
+      "fiscal_period": "Q2 2025",
+      "type": "single_bank"
+    },
+    {
+      "id": 18,
+      "question": "TD wholesale banking revenue record Q2 twenty-twenty-five",
+      "answer": "TD's Wholesale Banking achieved record revenue of $2.1 billion in Q2 2025.",
+      "entities": ["TD"],
+      "fiscal_period": "Q2 2025",
+      "type": "single_bank"
+    },
+    {
+      "id": 19,
+      "question": "Bank of Montreal VIP Porter loyalty cards added Q2/FY25",
+      "answer": "BMO added over 10,000 new VIP Porter loyalty cards in Q2 FY2025.",
+      "entities": ["BMO"],
+      "fiscal_period": "Q2 2025",
+      "type": "single_bank"
+    },
+    {
+      "id": 20,
+      "question": "CIBC's use of AI in commercial banking operations second quarter 2025",
+      "answer": "CIBC reported that 70% of commercial emails are now processed by AI as of Q2 2025, demonstrating significant digital transformation progress.",
+      "entities": ["CIBC"],
+      "fiscal_period": "Q2 2025",
+      "type": "single_bank"
+    },
+    {
+      "id": 21,
+      "question": "Compare BMO and TD's CET1 ratios for Q2 2025",
+      "answer": "In Q2 2025, TD had a higher CET1 ratio at 14.9% compared to BMO's 13.5%, with TD maintaining one of the strongest capital positions among Canadian banks.",
+      "entities": ["BMO", "TD"],
+      "fiscal_period": "Q2 2025",
+      "type": "multi_bank"
+    },
+    {
+      "id": 22,
+      "question": "Which Canadian banks announced dividend increases in fiscal Q2 2025 and by how much?",
+      "answer": "In Q2 2025, several banks announced dividend increases: BMO increased by $0.04 (5% increase), RBC by $0.06 (4% increase), and Scotiabank by $0.04 to $1.10 per share.",
+      "entities": ["BMO", "RBC", "Scotiabank"],
+      "fiscal_period": "Q2 2025",
+      "type": "multi_bank"
+    },
+    {
+      "id": 23,
+      "question": "Compare CIBC and National Bank ROE second quarter twenty-twenty-five",
+      "answer": "National Bank achieved a higher ROE of 15.6% compared to CIBC's 13.9% in Q2 2025, with NBC reporting the highest ROE among Canadian banks that quarter.",
+      "entities": ["CIBC", "NBC"],
+      "fiscal_period": "Q2 2025",
+      "type": "multi_bank"
+    },
+    {
+      "id": 24,
+      "question": "How are RBC and Scotiabank approaching share buybacks in Q2/25?",
+      "answer": "In Q2 2025, Scotiabank announced a new 20 million share buyback program, while RBC did not specify new buyback activity but maintained strong capital ratios. TD was more aggressive with 30 million shares ($2.5B) in buybacks.",
+      "entities": ["RBC", "Scotiabank", "TD"],
+      "fiscal_period": "Q2 2025",
+      "type": "multi_bank"
+    },
+    {
+      "id": 25,
+      "question": "BMO vs Scotia restructuring savings targets FY2025",
+      "answer": "Scotiabank committed to $800 million in medium-term restructuring savings, while BMO focused on balance sheet optimization without specifying a restructuring program. TD announced $550-650 million in annual savings from restructuring.",
+      "entities": ["BMO", "Scotiabank", "TD"],
+      "fiscal_period": "Q2 2025",
+      "type": "multi_bank"
+    },
+    {
+      "id": 26,
+      "question": "Which banks are building reserves for trade policy uncertainty in 2025 Q2?",
+      "answer": "All six major Canadian banks built reserves for trade policy uncertainty in Q2 2025: BMO added $850M over 3 quarters, RBC built $568M, Scotiabank $346M, TD $395M, NBC $230M for CWB, and CIBC also built reserves for trade uncertainty.",
+      "entities": ["BMO", "RBC", "Scotiabank", "TD", "NBC", "CIBC"],
+      "fiscal_period": "Q2 2025",
+      "type": "multi_bank"
+    },
+    {
+      "id": 27,
+      "question": "Compare TD and National Bank's acquisition integration progress Q2 fiscal 2025",
+      "answer": "In Q2 2025, National Bank was integrating CWB with $27M in synergies realized and targeting $270M by fiscal 2027. TD was focused on AML remediation rather than acquisitions, while RBC was completing HSBC Canada integration with cost synergies largely complete by Q3.",
+      "entities": ["TD", "NBC", "RBC"],
+      "fiscal_period": "Q2 2025",
+      "type": "multi_bank"
+    },
+    {
+      "id": 28,
+      "question": "CIBC vs RBC vs NBC earnings per share second quarter 2025",
+      "answer": "In Q2 2025, RBC had the highest EPS at $3.12 (adjusted), followed by NBC at $2.85, and CIBC at $2.05 (adjusted).",
+      "entities": ["CIBC", "RBC", "NBC"],
+      "fiscal_period": "Q2 2025",
+      "type": "multi_bank"
+    },
+    {
+      "id": 29,
+      "question": "How do BMO's and TD's US operations compare in Q2/FY25?",
+      "answer": "In Q2 2025, BMO's US operations showed NIM expansion of 5 basis points and targeted 12% ROE for USB&C. TD's US operations had NIM of 3.04% (up 18 bps QoQ) but were undergoing balance sheet restructuring and asset reduction as part of strategic review.",
+      "entities": ["BMO", "TD"],
+      "fiscal_period": "Q2 2025",
+      "type": "multi_bank"
+    },
+    {
+      "id": 30,
+      "question": "Which Canadian banks highlighted AI initiatives in their 2025 Q2 earnings and what were the key achievements?",
+      "answer": "Multiple banks highlighted AI initiatives in Q2 2025: TD has 800+ AI patent filings (top 10 globally), CIBC processes 70% of commercial emails with AI, and NBC emphasized AI and data initiatives across businesses. All banks are investing heavily in digital transformation and AI capabilities.",
+      "entities": ["TD", "CIBC", "NBC"],
+      "fiscal_period": "Q2 2025",
+      "type": "multi_bank"
+    }
+  ],
+  "metadata": {
+    "total_questions": 30,
+    "single_bank_questions": 20,
+    "multi_bank_questions": 10,
+    "banks_covered": ["BMO", "CIBC", "NBC", "RBC", "Scotiabank", "TD"],
+    "fiscal_period": "Q2 2025",
+    "question_formats": [
+      "Direct metric queries",
+      "Natural language queries",
+      "Abbreviated bank names",
+      "Various date formats",
+      "Mixed case formatting"
+    ]
+  }
+}
